@@ -1,0 +1,6 @@
+{
+    "parent": "block/wall_n_short",
+    "textures": {
+        "wall": "blocks/cobblestone"
+    }
+}
